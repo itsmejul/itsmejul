@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-🔥 I'm Julian, a final-year computer science student from Germany
-🤖 I'm especially interested in all things Python and machine learning
-⚠️ Currently, I'm exploring how to make LLMs more reliable by researching token distributions for my thesis and a research project
+🔥 I'm Julian, a final-year computer science student from Germany  
+🤖 I'm especially interested in all things Python and machine learning  
+⚠️ Currently, I'm exploring how to make LLMs more reliable by researching token distributions for my thesis and a research project  
 <!--🍪 What I'm also curious about is the intersection between semiconductor technology and AI.  
 <!--
 **itsmejul/itsmejul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
